@@ -1,0 +1,6 @@
+1. 
+2. print('hello python')  = print("hello python")
+3. comment/uncomment in python: 
+        1. single line comment, comment any line press ctrl+slash 
+        2. multiple lines comment, multiple select all commented lines and press ctrl+slash
+4. Module and pip: 
